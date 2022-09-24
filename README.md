@@ -3,8 +3,7 @@
 
 
 # radsi
-Developer: NodeJS | C# | Web
-Sometimes gamedev.
+Developer: NodeJS | C# | Web // Sometimes gamedev.
 
 # Socials
 > Discord, Radsi 2#3150 <br />
