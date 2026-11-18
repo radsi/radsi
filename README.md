@@ -16,8 +16,8 @@ I like building small, fun things, especially mods for games I enjoy.
 
 | Project | Description | Language |
 |---|---|---|
-| **Master Duels BlindMode** | This mod was created with the intention of helping blind people play YU-GI-OH Master Duels | C#, BepInEx |
-| **Passport Pagination** | A simple passport pagination mod for Peak, +900k Downloads | C#, BepInEx |
+| **[Master Duels BlindMode](https://github.com/radsi/Master-Duels-BlindMode)** | This mod was created with the intention of helping blind people play YU-GI-OH Master Duels | C#, BepInEx |
+| **[Passport Pagination](https://github.com/radsi/PEAK-PassportPagination)** | A simple passport pagination mod for Peak, +900k Downloads | C#, BepInEx |
 
 ## 📊 GitHub Stats
 
