@@ -16,10 +16,8 @@ I like building small, fun things, especially mods for games I enjoy.
 
 | Project | Description | Language |
 |---|---|---|
-| **Middle finger punch mod** | Replaces the punch animation with a middle finger | C# |
-| **Randomizer mod** | Mod that randomizes things | C# |
-| **Pineapple on Pizza villager editor** | Edit some villager properties | C# |
-| **Pineapple on Pizza island tweaks** | Change the draw distance and remove decoration from the island | C# |
+| **Master Duels BlindMode** | This mod was created with the intention of helping blind people play YU-GI-OH Master Duels | C#, BepInEx |
+| **Passport Pagination** | A simple passport pagination mod for Peak, +900k Downloads | C#, BepInEx |
 
 ## 📊 GitHub Stats
 
